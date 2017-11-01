@@ -1,5 +1,5 @@
 
-![](https://d3n8a8pro7vhmx.cloudfront.net/righttoresearch/pages/1004/features/original/Berlin_-_NB_Banner.png?1473355209)
+![](https://d3n8a8pro7vhmx.cloudfront.net/righttoresearch/pages/1462/features/original/OpenCon_2017_London_-_NB_Banner.png?1505763567)
 
 
 # Welcome to the **#OpenConLondon 2017 #Doathon**!
@@ -8,27 +8,27 @@
 
 <br>
 
-#### **21 Nov 2016 1pm - 6pm (or till we get kicked out)**
-##### [**Technical University of Berlin, Centre for Entrepreneurship**](http://www.entrepreneurship.tu-berlin.de/menue/willkommen/)
-###### [***Hardenbergstraße 38, 10623 Berlin***](https://goo.gl/maps/Q9rMC1vpwpL2)
+#### **21 Nov 2017, 9am - 5pm (OpenCon London evening event will commence afterwards)**
+##### [**Digital Science**](https://www.digital-science.com/)
+###### [***The Stables 2 Trematon Walk, Kings Cross, N1 9FN, London***](https://goo.gl/maps/7zAo98pSzB82)
 
+<br>
+
+### [**REGISTER**](https://www.eventbrite.co.uk/e/opencon-London-hackathon-tickets-28890667765)
 
 
 <br>
 ***
 
-### We're kicking off [**OpenCon Berlin 2016**](http://www.opencon2016.org/opencon_2016_berlin) with a 
-## **`hack / creative collaborative coding event!`**
+### We're kicking off [**OpenCon London 2017**](http://www.opencon2017.org/opencon_2017_London) with a 
+## **`2 track do-athon!`**
 
-There'll be plenty of options to work on a variety of projects according to skills and interest including:
-
-- Developing the [**Rfigshare package**](https://github.com/ropensci/rfigshare) (figshare new API, in potential collaboration with [figshare](https://figshare.com/) and [Ropensci](http://ropensci.org/)).
-- Continue work on the [**CeTrAn project**](https://github.com/jcolomb/CeTrAn) using the new rfigshare package.
+There'll be plenty of options to work on a variety of projects according to skills and interest. 
 
 <br>
 
-### but we have also come up with a core theme: 
-## a **paper reproducibility hack!**
+#### We are continuing with the core theme developed for [OpenCon Berlin 2016](https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/): 
+## the **paper reproducibility hack!** (aka **#ReproHack17**)
 
 We are all excited by the progress made by many to **make their papers fully reproducible by publishing code and data**. We know how challenging it can be so we want to showcase the value of the practice, both for original authors and and as a learning experience for the reproducers. 
 
@@ -38,11 +38,15 @@ What we love about this approach, and why we think it fits well in the space of 
 
 This is by no means an attempt to discredit work so consent by authors will be sought and their involvement is encouraged. We see reproduction as beneficial scientific activitiy in itself, with useful outcomes for the papers and valuable learning experiences for the participants. We hope to feedback our experiences to authors and of course spread the word on successful practice!
 
-### **a collaborative output:**
+## Plus an **open source hack track**
 
-We want to **collaborativelly collate and communicate our experiences and outputs** during the session. By collating information and discussions openly through [**github**](https://github.com/features), collaboratively contributing narrative through [**etherpads**](http://etherpad.org/), we hope to end up with **at least a comprehensive blog post** or potentially a **short paper** using [**overleaf**](https://www.overleaf.com/?utm_expid=71700200-7.jX1xSGOgQzGKvOn08hBHag.0).
+For folks who want to get their hands dirty **contributing to open source projects for Open Science**, we'll also offer a collaborative coding track. The idea is for participants **to get together to create Open Science tools with a focus on reproducible research**. 
 
-<br>
+You don't have to be a coder to take part in the hack - **anyone with an interest in creating better tools for Open Science is invited**, from designers and researchers to librarians, project managers, communicators, and so on.
+
+**We offer the opportunity for project leads to submit their projects for work.** Projects can either be for a completely new tool, or build on top of existing work. The only requirement is that you should have something to present at the end of the day, be that a concept, mock-ups or a working prototype.
+
+
 
 ***
 
