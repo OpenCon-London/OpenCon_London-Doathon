@@ -4,7 +4,6 @@
 
 # Welcome to the **#OpenConLondon 2017 #Doathon**!
 
-[![Join the chat at https://gitter.im/OpenCon_London-Doathon/Lobby](https://badges.gitter.im/OpenCon_London-Doathon/Lobby.svg)](https://gitter.im/OpenCon_London-Doathon/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <br>
 
