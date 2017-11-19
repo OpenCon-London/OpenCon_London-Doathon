@@ -58,11 +58,11 @@ You don't have to be a coder to take part in the hack - **anyone with an interes
 
 ## **Two ways to get involved:**
 
-### **[Nominate a paper](https://goo.gl/forms/DJoAHVDCeWlG92b03)**
+### **[Nominate a paper or project](https://goo.gl/forms/DJoAHVDCeWlG92b03)**
 
-We invite nominations from anyone, especially if you would like to **test one of your own papers!** Either way, we encourage proponents to seek consent from the original authors for their nominations. 
+We invite nominations **from anyone** and **for any type of open project**. For the #Reprohack, we especially invite authors that would like to **test one of their own papers!** Either way, we encourage proponents to seek consent from the original authors for their nominations. 
 
-[**Current list of proposed papers**](https://annakrystalli.shinyapps.io/OpenConLondon_Doathon/)
+[**Current list of proposed papers and projects**](https://annakrystalli.shinyapps.io/OpenConLondon_Doathon/)
 
 <br>
 
