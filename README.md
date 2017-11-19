@@ -86,10 +86,10 @@ We encourage authors that are keen, to be available for participants to reach ou
 
 #### **1. Project and team selection**
 
-We'll start by discussing the [**papers proposed**](https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/) and form into teams. We want to use github to keep track of the materials produced during the hack so we encourage teams to ensure they have someone with github skills on board. 
+We'll start by discussing the [**papers and projects proposed**](https://annakrystalli.shinyapps.io/OpenConLondon_Doathon/) and form into teams. We want to use github to keep track of the materials produced during the hack so we encourage teams to ensure they have someone with github skills on board. 
 
 
-#### **2. Create project github repo**
+#### **2. Create project github repo (if applicable)**
 
  Individuals teams are requested to **create their own github repo** from which to coordinate individual projects.
 
