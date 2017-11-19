@@ -76,11 +76,11 @@ Join us at the hack to **dig into exciting science**, learn more about **reprodu
 
 ## **On the day**
 
-This is the master repo of the hack. We'll collect information on the teams and projects through [issues](https://github.com/annakrystalli/OpenConBerlin_ReproHack/issues) in this repo. 
+This is the master repo of the hack. We'll collect information on the teams and projects through [issues](https://github.com/OpenCon-London/OpenCon_London-Doathon/issues) in this repo. 
 
 ### **Authors**
 
-We encourage authors that are keen, to be available for participants to reach out to for guidance or even just to say hello! We've set up a [**gitter channel**](https://gitter.im/OCB_ReproHack/Lobby) as a public lobby where you can also reach the organisers prior to the hack. You can start discussions through **issues** in each project repo and we've also set up a public, collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack).
+We encourage authors that are keen, to be available for participants to reach out to for guidance or even just to say hello! We've set up a [**gitter channel**](https://gitter.im/OpenCon-London/OpenCon_London-Doathon) as a public lobby where you can also reach the organisers prior to the hack. You can start discussions through **issues** in each project repo and we've also set up a public, collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConLondon2017_Doathon).
 
 ### **Participants**
 
@@ -95,14 +95,11 @@ We'll start by discussing the [**papers proposed**](https://annakrystalli.shinya
 
 #### **3. Register your project**
 - Copy the text from the [**project registration issue template**](https://raw.githubusercontent.com/annakrystalli/OpenConBerlin_ReproHack/master/.github/project_reg_tmpl.md).
-- [**Create** a new issue](https://github.com/annakrystalli/OpenConBerlin_ReproHack/issues/new) in **this** (the OpenCon Berlin ReproHack) repo.
+- [**Create** a new issue](https://github.com/OpenCon-London/OpenCon_London-Doathon/issues/new) in **this** (the OpenCon London ReproHack) repo.
 - **Paste** text copied from template.
 - **Complete details** and save.
 
 #### **4. Work on your project!**
 
-Collect any materials generated during the hack in your **teams's github repo**. If you're trying to reproduce a paper, we recommend you do this in a **notebook** or **.Rmd** literate programming document. Here's an examples of such an [**output**](https://rawgit.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.html), the [raw Rmd code](https://raw.githubusercontent.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.Rmd) (link to [.Rdm file](https://github.com/opetchey/RREEBES/blob/master/Beninca_etal_2008_Nature/report/report.Rmd)) used to create it and the github [directory](https://github.com/opetchey/RREEBES/tree/master/Beninca_etal_2008_Nature) containing materials associated with the reproduction.
+Collect any materials generated during the hack in your **teams's github repo**. If you're trying to reproduce a paper, we recommend you do this in a **jupyter notebook**, **.rmarkdown** or any other literate programming document type. Here's an examples of such an [**output**](https://rawgit.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.html), the [raw Rmd code](https://raw.githubusercontent.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.Rmd) (link to [.Rdm file](https://github.com/opetchey/RREEBES/blob/master/Beninca_etal_2008_Nature/report/report.Rmd)) used to create it and the github [directory](https://github.com/opetchey/RREEBES/tree/master/Beninca_etal_2008_Nature) containing materials associated with the reproduction.
 
-# Hack Track
-
-more info coming...
