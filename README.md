@@ -112,4 +112,4 @@ Collect any materials generated during the hack in your **teams's github repo**.
 
 Feel free to contribute thoughts on our collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConLondon2017_Doathon)
 
-N.B. Please sign in to each etherpad, within the pad and in the upper right corner to link your name to a colour.
+***N.B. Please sign in to each etherpad, within the pad and in the upper right corner to link your name to a colour.***
