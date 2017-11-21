@@ -78,6 +78,10 @@ Join us at the hack to **dig into exciting science**, learn more about **reprodu
 
 This is the master repo of the hack. We'll collect information on the teams and projects through [issues](https://github.com/OpenCon-London/OpenCon_London-Doathon/issues) in this repo. 
 
+As all OpenCon events, we strive to make this event open and inclusive to all. As such the event is governed by the [OpenCon Code of Conduct](http://www.opencon2017.org/code_of_conduct) and you should read it before participating. By participating, you are expected to uphold this code.
+
+
+
 ### **Authors**
 
 We encourage authors that are keen, to be available for participants to reach out to for guidance or even just to say hello! We've set up a [**gitter channel**](https://gitter.im/OpenCon-London/OpenCon_London-Doathon) as a public lobby where you can also reach the organisers prior to the hack. You can start discussions through **issues** in each project repo and we've also set up a public, collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConLondon2017_Doathon).
@@ -103,3 +107,9 @@ We'll start by discussing the [**papers and projects proposed**](https://annakry
 
 Collect any materials generated during the hack in your **teams's github repo**. If you're trying to reproduce a paper, we recommend you do this in a **jupyter notebook**, **.rmarkdown** or any other literate programming document type. Here's an examples of such an [**output**](https://rawgit.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.html), the [raw Rmd code](https://raw.githubusercontent.com/opetchey/RREEBES/master/Beninca_etal_2008_Nature/report/report.Rmd) (link to [.Rdm file](https://github.com/opetchey/RREEBES/blob/master/Beninca_etal_2008_Nature/report/report.Rmd)) used to create it and the github [directory](https://github.com/opetchey/RREEBES/tree/master/Beninca_etal_2008_Nature) containing materials associated with the reproduction.
 
+
+#### Collaborative note taking:
+
+Feel free to contribute thoughts on our collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConLondon2017_Doathon)
+
+N.B. Please sign in to each etherpad, within the pad and in the upper right corner to link your name to a colour.
