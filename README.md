@@ -113,3 +113,6 @@ Collect any materials generated during the hack in your **teams's github repo**.
 Feel free to contribute thoughts on our collaborative [**hackpad**](https://public.etherpad-mozilla.org/p/OpenConLondon2017_Doathon)
 
 ***N.B. Please sign in to each etherpad, within the pad and in the upper right corner to link your name to a colour.***
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
